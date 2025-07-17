@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\osc04\OneDrive\Documentos\MAESTRIA MIACS\Desarrollo Profesional\dvc_remote
